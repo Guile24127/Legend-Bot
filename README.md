@@ -1,0 +1,2 @@
+# Legend-Bot
+Crypto Bot
